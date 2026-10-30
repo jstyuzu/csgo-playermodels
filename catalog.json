@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repository": "lanesuwu/csgo-playermodels",
-  "revision": 11,
+  "revision": 12,
   "minimum_loader": "2.25",
   "categories": [
     "General",
@@ -8683,6 +8683,248 @@
           {
             "path": "models/weapons/custom/aether/v1_0_0/v_aether_sleeves.vvd",
             "size": 383168
+          }
+        ]
+      }
+    },
+    {
+      "id": "moe-sprout",
+      "wire_id": 24,
+      "label": "Moe Sprout",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_moe_sprout.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.mdl",
+        "sleeves": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.mdl",
+        "hands": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.mdl"
+      },
+      "checksum": 3984527558,
+      "arm_checksums": {
+        "arms": 208154785,
+        "sleeves": 3426648485,
+        "hands": 4050194656
+      },
+      "preview": {
+        "height": 82.16130781173706,
+        "focus": 41.94273781776428,
+        "distance": 110.91776554584504
+      },
+      "package": {
+        "id": "moe-sprout",
+        "version": "1.0.0",
+        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r12/moe-sprout-1.0.0.zip",
+        "sha256": "3cacdc533920625449892c64b053ce542cd16314e9f2e7e3a39daf7ac99f7e25",
+        "bytes": 25254964,
+        "unpacked_bytes": 65261332,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/ac.vmt",
+            "size": 415
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/ac.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/ac_n.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/basewarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/body all.vmt",
+            "size": 385
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/body all.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/body.vmt",
+            "size": 381
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/body.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/bodysuit.vmt",
+            "size": 419
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/cloth.vmt",
+            "size": 359
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/cloth.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/effect.vmt",
+            "size": 58
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/facewarp.vtf",
+            "size": 4208
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/hair.vmt",
+            "size": 359
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/hair.vtf",
+            "size": 5592656
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/jacket.vmt",
+            "size": 419
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/pants.vmt",
+            "size": 419
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/shoes.vmt",
+            "size": 421
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/shoes.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/shoes_n.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/socks.vmt",
+            "size": 419
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/suit.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/player/custom_player/moe_sprout/suit_n.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/basewarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/body all.vmt",
+            "size": 377
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/body all.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/jacketv.vmt",
+            "size": 407
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/suit.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "materials/models/weapons/v_models/moe_sprout/suit_n.vtf",
+            "size": 2796440
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.dx80.vtx",
+            "size": 2587710
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.dx90.vtx",
+            "size": 2582145
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.mdl",
+            "size": 451508
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.phy",
+            "size": 68928
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.sw.vtx",
+            "size": 2580849
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_moe_sprout.vvd",
+            "size": 9423616
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.dx80.vtx",
+            "size": 213517
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.dx90.vtx",
+            "size": 212108
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.mdl",
+            "size": 21056
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.sw.vtx",
+            "size": 211804
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_arms.vvd",
+            "size": 705984
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.dx80.vtx",
+            "size": 108464
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.dx90.vtx",
+            "size": 107055
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.mdl",
+            "size": 20700
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.sw.vtx",
+            "size": 106783
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_hands.vvd",
+            "size": 374080
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.dx80.vtx",
+            "size": 105097
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.dx90.vtx",
+            "size": 105097
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.mdl",
+            "size": 20284
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.sw.vtx",
+            "size": 105065
+          },
+          {
+            "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.vvd",
+            "size": 331968
           }
         ]
       }
