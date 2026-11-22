@@ -1,23 +1,15 @@
-# CS:GO Legacy custom characters
+# CS:GO Legacy custom character packages
 
-This repository distributes ported player models and their associated first-person arms, sleeves, hands, and custom materials where available.
+Public character catalog hosted by **jstyuzu**. Download model ZIPs from [Releases](https://github.com/jstyuzu/csgo-playermodels/releases), or use the updated Unified character loader.
 
-## Downloads
+This repository copies the existing catalog and release history from `lanesuwu/csgo-playermodels` and adds the packaged local characters. Existing stable model/sharing IDs, model paths and published archive bytes are preserved. Packages contain player models, supplied first-person arms/sleeves/hands, private materials and generated `package.json` metadata. Authoring sources, local logs, credentials and custom weapon mods are excluded.
 
-Download the ZIP for the character you want from the [Model packages v1 release](https://github.com/lanesuwu/csgo-playermodels/releases/tag/models-v1). Each package contains its runtime dependencies. The GitHub-generated source archives are not model packages.
+`catalog.json` lists current selectable models and verified package URLs, sizes and SHA256 hashes. `registry.json` reserves stable IDs. GitHub-generated source archives are not model packages. For manual installation, extract a character ZIP into the game's `csgo` content folder while preserving `models/` and `materials/` paths.
 
-For manual installation, extract the ZIP into the game's **csgo** content folder, preserving the `models/` and `materials/` directory layout. `package.json` is package metadata; it is not required by the engine. No drive letter is required or assumed.
+Newly listed characters: Lara Croft - Fortnite, Madison Beer Make You Mine - Fortnite, Maya Obsidian, Tactical Karin (VRC x MWIII).
 
-`catalog.json` provides the exact player and first-person model paths, categories, package versions, download URLs, archive SHA256 checksums, sizes, and preview framing. `registry.json` preserves stable sharing IDs. A model package includes only runtime assets and package metadata, not authoring sources or local logs.
+Additional local revisions are available in the migration release as manual downloads. Existing catalog entries are not silently changed to builds that overwrite an already-published model namespace. Original release packages remain immutable. Native gameplay testing and appropriate rights/credits for the original assets remain the publisher's responsibility; this hosting migration does not certify animation or material behavior.
 
-## Loader status
+## Migration provenance
 
-The Unified online catalog and installer integration is still in development. The currently installed Unified v2.24 does not automatically download this catalog. The tested native installer supports streamed extraction, archive SHA256 validation, actual MOD content-root resolution, resumable journals, and removal of the temporary ZIP after a successful committed installation. In-game testing remains manual.
-
-The initial Mamehinata package uses versioned `mamehinata/v1/` paths. The other initial packages retain their established canonical paths. Do not replace files for an actively loaded model; future package updates should use new compiled model and material paths.
-
-## Catalog maintenance
-
-Publish all ZIP assets before updating `catalog.json`. Keep published package URLs and ZIP bytes immutable. Add new models with new stable IDs; never reuse a retired wire ID. Change categories or labels in the catalog without changing the stable model ID. Retire a model by setting `active` to false or removing it from the visible catalog while retaining its ID in `registry.json`.
-
-For an asset update, publish a new package version and compile a new model/material namespace, then update its catalog entry. Clients should refresh metadata automatically and offer an explicit Update action; an update must not silently equip a different revision.
+Source repository commit: `0de6ecead0d41931121bc93bd27bee963567dfae`. Source catalog revision: 12. This catalog revision: 13. The original repository was not modified or deleted. The original README is retained as `SOURCE_README.md`.

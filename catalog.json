@@ -1,12 +1,13 @@
 {
   "schema": 1,
-  "repository": "lanesuwu/csgo-playermodels",
-  "revision": 12,
+  "repository": "jstyuzu/csgo-playermodels",
+  "revision": 13,
   "minimum_loader": "2.25",
   "categories": [
     "General",
     "Anime",
-    "Other"
+    "Other",
+    "Games"
   ],
   "models": [
     {
@@ -35,7 +36,7 @@
       "package": {
         "id": "anomea",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/anomea-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/anomea-1.0.0.zip",
         "sha256": "b4dcc9ae7c0aa51d37f0bb82b3d31b2c0a8937b56de9afe215ec87efced68740",
         "bytes": 6542837,
         "unpacked_bytes": 18601826,
@@ -397,7 +398,7 @@
       "package": {
         "id": "astolfo-casual",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/astolfo-casual-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/astolfo-casual-1.0.0.zip",
         "sha256": "ab8d80baf8a85f468e5e72ae4a1062733279dc9fe30cb759d62feeb7378e60ab",
         "bytes": 7967337,
         "unpacked_bytes": 30348242,
@@ -879,7 +880,7 @@
       "package": {
         "id": "astolfo-schoolgirl",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/astolfo-schoolgirl-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/astolfo-schoolgirl-1.0.0.zip",
         "sha256": "05011fba7754151ed3c8839e5c45531ff43810dc6de3a294f04469a8d6269069",
         "bytes": 6022786,
         "unpacked_bytes": 21492441,
@@ -1345,7 +1346,7 @@
       "package": {
         "id": "brenton",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/brenton-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/brenton-1.0.0.zip",
         "sha256": "27bec5fe5b027730c506793639275f0f18574cff02bbfd9b9026e4e759be537e",
         "bytes": 6159453,
         "unpacked_bytes": 17979410,
@@ -1611,7 +1612,7 @@
       "package": {
         "id": "chocola-bikini",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/chocola-bikini-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/chocola-bikini-1.0.0.zip",
         "sha256": "a2a0dcd0d15e642c1f69e90c7d5076c5d8b58f397ba2955cb47cbe6fd1f8d39b",
         "bytes": 4743958,
         "unpacked_bytes": 22172567,
@@ -2205,7 +2206,7 @@
       "package": {
         "id": "epstein",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/epstein-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/epstein-1.0.0.zip",
         "sha256": "f739f7bc1345b3f521d232af1a7e1dfd29586e5e640d5a03c248a641413ad444",
         "bytes": 5721735,
         "unpacked_bytes": 18068959,
@@ -2439,7 +2440,7 @@
       "package": {
         "id": "georgef",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/georgef-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/georgef-1.0.0.zip",
         "sha256": "ef62c413df3113f89803a5945870b65b8145952da89495c93afe6b503a4b23c8",
         "bytes": 806184,
         "unpacked_bytes": 1619846,
@@ -2625,7 +2626,7 @@
       "package": {
         "id": "karin",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/karin-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/karin-1.0.0.zip",
         "sha256": "86c6429ccc03364a92894918876b83953080fd669b7e4192a3318e2ddf6fd698",
         "bytes": 25523106,
         "unpacked_bytes": 107013743,
@@ -3107,7 +3108,7 @@
       "package": {
         "id": "lime",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/lime-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/lime-1.0.0.zip",
         "sha256": "cebeffc61d6528a5cd311c53984cd3b5d476a2bc075ea4c5a3343c8fe64bae35",
         "bytes": 8243381,
         "unpacked_bytes": 26329993,
@@ -3605,7 +3606,7 @@
       "package": {
         "id": "mamehinata",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/mamehinata-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/mamehinata-1.0.0.zip",
         "sha256": "6b0af7b7409c008571fc4104b6736e3f1761e48430b3bd94a712bdf68f92df6e",
         "bytes": 13856393,
         "unpacked_bytes": 78366580,
@@ -4043,7 +4044,7 @@
       "package": {
         "id": "mamehinata-small",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/mamehinata-small-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/mamehinata-small-1.0.0.zip",
         "sha256": "03afe6ddda68d3de05c7173824230c569d8ce22328e33699f1f9b92fae4f4ff3",
         "bytes": 12680258,
         "unpacked_bytes": 72740951,
@@ -4461,7 +4462,7 @@
       "package": {
         "id": "milk",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/milk-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/milk-1.0.0.zip",
         "sha256": "81ae62c62b126f363520abcd7cbbeb79bd22797e1fcf29c71e7d4224c8835eea",
         "bytes": 9222024,
         "unpacked_bytes": 62226656,
@@ -4871,7 +4872,7 @@
       "package": {
         "id": "milk-sailor",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/milk-sailor-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/milk-sailor-1.0.0.zip",
         "sha256": "486f721ff46abd2f49a7e6a2c86b258d4d80e06ea0b3053a5068f9d4598aae7e",
         "bytes": 9221513,
         "unpacked_bytes": 62226672,
@@ -5281,7 +5282,7 @@
       "package": {
         "id": "munkk",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/munkk-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/munkk-1.0.0.zip",
         "sha256": "b0004e0c26ce6f1d4fa58208e61f05a0e81a9c72b900148553eb4caab5a7ed90",
         "bytes": 6038236,
         "unpacked_bytes": 19432038,
@@ -5683,7 +5684,7 @@
       "package": {
         "id": "ruskd-v2",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/ruskd-v2-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/ruskd-v2-1.0.0.zip",
         "sha256": "58d840fbc0f6f814478099d0187139b743b0cc9fdb3c0c0c6e690686ce5b4108",
         "bytes": 5637891,
         "unpacked_bytes": 32350784,
@@ -6053,7 +6054,7 @@
       "package": {
         "id": "rusk-v2",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/rusk-v2-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/rusk-v2-1.0.0.zip",
         "sha256": "27bbaf1d859e07a985204c4b658b07712ac18b8fabde86187fe255225847957b",
         "bytes": 4847438,
         "unpacked_bytes": 32350759,
@@ -6423,7 +6424,7 @@
       "package": {
         "id": "vanilla-bikini",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-v1/vanilla-bikini-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-v1/vanilla-bikini-1.0.0.zip",
         "sha256": "743e1e06a59fdfcba59e86b11e924c17f47bb6b6cd21333ac9c780d7bc514534",
         "bytes": 4816863,
         "unpacked_bytes": 22299950,
@@ -7025,7 +7026,7 @@
       "package": {
         "id": "gorou",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r2/gorou-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r2/gorou-1.0.0.zip",
         "sha256": "e9e15500f358c7f44a14fa09a15af8eb2b2b89c99c2a06ca3da7f442c78b2655",
         "bytes": 2783485,
         "unpacked_bytes": 13992224,
@@ -7251,7 +7252,7 @@
       "package": {
         "id": "durin",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r3/durin-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r3/durin-1.0.0.zip",
         "sha256": "c91b86b6686518f6ad92b55e4b497ba09ee92c622cd8b448a641712873a3a57c",
         "bytes": 6010236,
         "unpacked_bytes": 16986336,
@@ -7433,7 +7434,7 @@
       "package": {
         "id": "furina-flying",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r4/furina-flying-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r4/furina-flying-1.0.0.zip",
         "sha256": "1a3d6d2854ee4365018f283dd562a98538578969cf7c27ecd0628572b4c176fa",
         "bytes": 6098789,
         "unpacked_bytes": 31706575,
@@ -7615,7 +7616,7 @@
       "package": {
         "id": "edgar",
         "version": "1.0.2",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r8/edgar-1.0.2.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r8/edgar-1.0.2.zip",
         "sha256": "f4b9cef3dee7af8ce2120f39701ec5bde2c34cd415880823691d790e09c5a7c3",
         "bytes": 7373588,
         "unpacked_bytes": 17878618,
@@ -8049,7 +8050,7 @@
       "package": {
         "id": "kyaru",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r9/kyaru-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r9/kyaru-1.0.0.zip",
         "sha256": "024add1bc4284c1e5925a21e1d8c5d377553c7f3a9491fc99fd1af071836cfa0",
         "bytes": 7893811,
         "unpacked_bytes": 18533976,
@@ -8255,7 +8256,7 @@
       "package": {
         "id": "aether",
         "version": "1.0.1",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r11/aether-1.0.1.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r11/aether-1.0.1.zip",
         "sha256": "b09670e0dd07d7e3347e7e4a43b7c5f43f0f7875dc52731ef069bbb743b46146",
         "bytes": 6849835,
         "unpacked_bytes": 17060094,
@@ -8713,7 +8714,7 @@
       "package": {
         "id": "moe-sprout",
         "version": "1.0.0",
-        "url": "https://github.com/lanesuwu/csgo-playermodels/releases/download/models-r12/moe-sprout-1.0.0.zip",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r12/moe-sprout-1.0.0.zip",
         "sha256": "3cacdc533920625449892c64b053ce542cd16314e9f2e7e3a39daf7ac99f7e25",
         "bytes": 25254964,
         "unpacked_bytes": 65261332,
@@ -8925,6 +8926,1078 @@
           {
             "path": "models/weapons/custom/moe_sprout/v_moe_sprout_sleeves.vvd",
             "size": 331968
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn-lara-croft",
+      "wire_id": 25,
+      "label": "Lara Croft - Fortnite",
+      "category": "Games",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_fn_lara_croft.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.mdl",
+        "sleeves": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.mdl",
+        "hands": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.mdl"
+      },
+      "checksum": 1284504033,
+      "arm_checksums": {
+        "arms": 3582191903,
+        "sleeves": 136042528,
+        "hands": 3814901006
+      },
+      "preview": {
+        "height": 78.60601735115051,
+        "focus": 38.17931401729584,
+        "distance": 106.1181234240532
+      },
+      "package": {
+        "id": "fn-lara-croft",
+        "version": "1.0.0",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r13/fn-lara-croft-1.0.0.zip",
+        "sha256": "39ba024a81eb380bf78b956d41614356871660f42e3d260e0fa24c53ed0ea116",
+        "bytes": 5310392,
+        "unpacked_bytes": 12920454,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_acc.vmt",
+            "size": 248
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_acc.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_acc_normal.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_body.vmt",
+            "size": 248
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_body.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_body_normal.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_head.vmt",
+            "size": 248
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_head.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_lara_croft/lara_head_normal.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.dx80.vtx",
+            "size": 470587
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.dx90.vtx",
+            "size": 464523
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.mdl",
+            "size": 758352
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.phy",
+            "size": 44772
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.sw.vtx",
+            "size": 461838
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_lara_croft.vvd",
+            "size": 1512000
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.dx80.vtx",
+            "size": 60367
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.dx90.vtx",
+            "size": 59782
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.mdl",
+            "size": 21548
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.sw.vtx",
+            "size": 59446
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_arms.vvd",
+            "size": 197568
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.dx80.vtx",
+            "size": 38199
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.dx90.vtx",
+            "size": 37614
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.mdl",
+            "size": 21120
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.sw.vtx",
+            "size": 37342
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_hands.vvd",
+            "size": 125184
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.dx80.vtx",
+            "size": 22212
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.dx90.vtx",
+            "size": 22212
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.mdl",
+            "size": 20432
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.sw.vtx",
+            "size": 22148
+          },
+          {
+            "path": "models/weapons/custom/fn_lara_croft/v_fn_lara_croft_sleeves.vvd",
+            "size": 72448
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn-madison-beer",
+      "wire_id": 26,
+      "label": "Madison Beer Make You Mine - Fortnite",
+      "category": "Games",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_fn_madison_beer.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.mdl",
+        "sleeves": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.mdl",
+        "hands": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.mdl"
+      },
+      "checksum": 779568627,
+      "arm_checksums": {
+        "arms": 3080823289,
+        "sleeves": 2466771237,
+        "hands": 2138372749
+      },
+      "preview": {
+        "height": 81.96110725402832,
+        "focus": 40.88442897796631,
+        "distance": 110.64749479293825
+      },
+      "package": {
+        "id": "fn-madison-beer",
+        "version": "1.0.0",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r13/fn-madison-beer-1.0.0.zip",
+        "sha256": "b6e5b659e5ea16566bb3c5d11e741fa514c4e23d12deeb8e93d134f393cd832f",
+        "bytes": 25418351,
+        "unpacked_bytes": 93289288,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/m_misttycoon_mic.vmt",
+            "size": 603
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/m_misttycoon_mic.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/m_misttycoon_mic_e.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/m_misttycoon_mic_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_backpack.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_backpack.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_backpack_e.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_backpack_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_body.vmt",
+            "size": 595
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_body.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_body_e.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_body_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_faceacc.vmt",
+            "size": 391
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_faceacc.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_faceacc_e.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_faceacc_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_head.vmt",
+            "size": 382
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_head.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_head_e.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonhike_head_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_backpack.vmt",
+            "size": 489
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_backpack.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_backpack_e.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_backpack_n.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_eyes.vmt",
+            "size": 206
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_eyes.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_eyes_lashes.vmt",
+            "size": 212
+          },
+          {
+            "path": "materials/models/player/custom_player/fn_madison_beer/misttycoonlife_eyes_lashes.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.dx80.vtx",
+            "size": 728943
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.dx90.vtx",
+            "size": 721794
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.mdl",
+            "size": 872432
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.phy",
+            "size": 51646
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.sw.vtx",
+            "size": 720585
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_fn_madison_beer.vvd",
+            "size": 2552960
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.dx80.vtx",
+            "size": 70281
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.dx90.vtx",
+            "size": 69652
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.mdl",
+            "size": 21088
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.sw.vtx",
+            "size": 69316
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_arms.vvd",
+            "size": 234944
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.dx80.vtx",
+            "size": 46064
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.dx90.vtx",
+            "size": 45435
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.mdl",
+            "size": 20676
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.sw.vtx",
+            "size": 45163
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_hands.vvd",
+            "size": 155584
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.dx80.vtx",
+            "size": 24261
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.dx90.vtx",
+            "size": 24261
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.mdl",
+            "size": 20452
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.sw.vtx",
+            "size": 24197
+          },
+          {
+            "path": "models/weapons/custom/fn_madison_beer/v_fn_madison_beer_sleeves.vvd",
+            "size": 79424
+          }
+        ]
+      }
+    },
+    {
+      "id": "maya-obsidian",
+      "wire_id": 27,
+      "label": "Maya Obsidian",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.mdl",
+        "sleeves": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.mdl",
+        "hands": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.mdl"
+      },
+      "checksum": 2665874586,
+      "arm_checksums": {
+        "arms": 1791945906,
+        "sleeves": 1281933711,
+        "hands": 1182757500
+      },
+      "preview": {
+        "height": 86.41384983062744,
+        "focus": 44.22738599777222,
+        "distance": 116.65869727134705
+      },
+      "package": {
+        "id": "maya-obsidian",
+        "version": "1.0.0",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r13/maya-obsidian-1.0.0.zip",
+        "sha256": "f78506e91e852214109e44dc1d2dd4ba3bf63d24885b4224a58fff3079389c68",
+        "bytes": 13337543,
+        "unpacked_bytes": 57472627,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/body.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/body.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth1.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth1_normal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth1_t.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth3.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth3_normal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cloth4.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/cube.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/daimao.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/effect.vmt",
+            "size": 399
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/effect.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/glasses.vmt",
+            "size": 496
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/gloves_l.vmt",
+            "size": 436
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/gloves_r.vmt",
+            "size": 436
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/hair.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/hair.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/hand_l.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/hand_r.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/head.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/head.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/left_ear.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/leg_l.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/leg_r.vmt",
+            "size": 160
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/normal.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_bracelets.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_chocker.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_earrings.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_glasses.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_hat.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_jacket.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_legbelts.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_namecard.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_pants.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_pantschain.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_shirts.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/obsidian_shoes.vmt",
+            "size": 443
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/right_ear.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/shader.vtf",
+            "size": 3145840
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/stockings_l.vmt",
+            "size": 436
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/stockings_r.vmt",
+            "size": 436
+          },
+          {
+            "path": "materials/models/player/custom_player/maya_obsidian/v1/tail.vmt",
+            "size": 396
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/body.vmt",
+            "size": 388
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/body.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth1.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth1_normal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth1_t.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth3.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth3_normal.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cloth4.vtf",
+            "size": 2796464
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/cube.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/effect.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/hair.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/hand_l.vmt",
+            "size": 388
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/hand_r.vmt",
+            "size": 388
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/head.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/normal.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/obsidian_bracelets.vmt",
+            "size": 431
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/obsidian_jacket.vmt",
+            "size": 431
+          },
+          {
+            "path": "materials/models/weapons/v_models/maya_obsidian/v1/shader.vtf",
+            "size": 3145840
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.dx80.vtx",
+            "size": 1048632
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.dx90.vtx",
+            "size": 1047940
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.mdl",
+            "size": 377844
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.phy",
+            "size": 55844
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.sw.vtx",
+            "size": 1046428
+          },
+          {
+            "path": "models/player/custom_player/legacy/maya_obsidian/v1/ctm_maya_obsidian.vvd",
+            "size": 3971968
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.dx80.vtx",
+            "size": 121071
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.dx90.vtx",
+            "size": 121071
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.mdl",
+            "size": 21892
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.sw.vtx",
+            "size": 120679
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_arms.vvd",
+            "size": 440448
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.dx80.vtx",
+            "size": 39752
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.dx90.vtx",
+            "size": 39752
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.mdl",
+            "size": 21036
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.sw.vtx",
+            "size": 39440
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_hands.vvd",
+            "size": 134528
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.dx80.vtx",
+            "size": 81363
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.dx90.vtx",
+            "size": 81363
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.mdl",
+            "size": 20876
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.sw.vtx",
+            "size": 81283
+          },
+          {
+            "path": "models/weapons/custom/maya_obsidian/v1/v_maya_obsidian_sleeves.vvd",
+            "size": 305984
+          }
+        ]
+      }
+    },
+    {
+      "id": "tactical-karin",
+      "wire_id": 28,
+      "label": "Tactical Karin (VRC x MWIII)",
+      "category": "Anime",
+      "active": true,
+      "player": "models/player/custom_player/legacy/ctm_tactical_karin.mdl",
+      "arms": {
+        "arms": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.mdl",
+        "sleeves": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.mdl",
+        "hands": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.mdl"
+      },
+      "checksum": 2026652687,
+      "arm_checksums": {
+        "arms": 2898695740,
+        "sleeves": 675367395,
+        "hands": 2062453029
+      },
+      "preview": {
+        "height": 78.76681132316617,
+        "focus": 39.38340952396379,
+        "distance": 106.33519528627433
+      },
+      "package": {
+        "id": "tactical-karin",
+        "version": "1.0.0",
+        "url": "https://github.com/jstyuzu/csgo-playermodels/releases/download/models-r13/tactical-karin-1.0.0.zip",
+        "sha256": "cf2377b954787426ff9f4e21bdf527ee0b4cba906bf0f5c7fbd6405da6b45b8f",
+        "bytes": 20002983,
+        "unpacked_bytes": 51917965,
+        "files": [
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/ammo2.vmt",
+            "size": 685
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/ammo2.vtf",
+            "size": 699232
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/basewarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/belt.vtf",
+            "size": 1398264
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/belt_n.vtf",
+            "size": 1398264
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/body03_tex.vmt",
+            "size": 644
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/body03_tex.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/buckle_master_c.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/buckle_master_n.vtf",
+            "size": 349760
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/buckles.vmt",
+            "size": 602
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/comms.vmt",
+            "size": 682
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/comms.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/comms_n.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/facewarp.vtf",
+            "size": 4208
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/frame_grass.vmt",
+            "size": 694
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/frame_grass.vtf",
+            "size": 87544
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/frame_grass_n.vtf",
+            "size": 174944
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/grass.vmt",
+            "size": 620
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/gurtel.vmt",
+            "size": 750
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/item_equipment_rig_tv110_msk.vtf",
+            "size": 524512
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_alpha.vmt",
+            "size": 435
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_alpha.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_body.vmt",
+            "size": 387
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_body.vtf",
+            "size": 5592640
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_costume.vmt",
+            "size": 418
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_costume.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_face.vmt",
+            "size": 387
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_face.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_hair.vmt",
+            "size": 415
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/karin_hair.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/lightwarp_soft.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/mag_met_n.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/mags.vmt",
+            "size": 699
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/mags.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/normal.vtf",
+            "size": 576
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/normal_skirt.vtf",
+            "size": 2796424
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/phong_exp.vtf",
+            "size": 65743
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches3_n.vtf",
+            "size": 699232
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_1.vmt",
+            "size": 706
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_1.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_1_n.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_2.vmt",
+            "size": 706
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_2.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/pouches_2_n.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/rusk_and_karin.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/skinwarp.vtf",
+            "size": 16525
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/survivor_it.vtf",
+            "size": 43936
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/tex_skirt.vmt",
+            "size": 420
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/tex_skirt.vtf",
+            "size": 699272
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/vest_black.vmt",
+            "size": 692
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/vest_black.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/vest_black_n.vtf",
+            "size": 1398336
+          },
+          {
+            "path": "materials/models/player/custom_player/tactical_karin/vietnam.vmt",
+            "size": 625
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.dx80.vtx",
+            "size": 1078342
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.dx90.vtx",
+            "size": 1075442
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.mdl",
+            "size": 374128
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.phy",
+            "size": 51822
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.sw.vtx",
+            "size": 1074210
+          },
+          {
+            "path": "models/player/custom_player/legacy/ctm_tactical_karin.vvd",
+            "size": 4159616
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.dx80.vtx",
+            "size": 113286
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.dx90.vtx",
+            "size": 111508
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.mdl",
+            "size": 22056
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.sw.vtx",
+            "size": 110932
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_arms.vvd",
+            "size": 403968
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.dx80.vtx",
+            "size": 84724
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.dx90.vtx",
+            "size": 82946
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.mdl",
+            "size": 21312
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.sw.vtx",
+            "size": 82482
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_hands.vvd",
+            "size": 309440
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.dx80.vtx",
+            "size": 28606
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.dx90.vtx",
+            "size": 28606
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.mdl",
+            "size": 20824
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.sw.vtx",
+            "size": 28494
+          },
+          {
+            "path": "models/weapons/custom/tactical_karin/v_tactical_karin_sleeves.vvd",
+            "size": 94592
           }
         ]
       }
