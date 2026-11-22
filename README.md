@@ -8,7 +8,7 @@ This repository copies the existing catalog and release history from `lanesuwu/c
 
 Newly listed characters: Lara Croft - Fortnite, Madison Beer Make You Mine - Fortnite, Maya Obsidian, Tactical Karin (VRC x MWIII).
 
-Additional local revisions are available in the migration release as manual downloads. Existing catalog entries are not silently changed to builds that overwrite an already-published model namespace. Original release packages remain immutable. Native gameplay testing and appropriate rights/credits for the original assets remain the publisher's responsibility; this hosting migration does not certify animation or material behavior.
+Additional local revisions are available in the migration release as manual downloads. Existing catalog entries are not silently changed to builds that overwrite an already-published model namespace. Original release packages remain immutable. Gameplay verification remains manual.
 
 ## Migration provenance
 
